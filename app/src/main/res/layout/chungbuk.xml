@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="충청북도 농장"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/cb_btn01"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="부부농장"
+        android:textSize="15dp"/>
+
+
+    <Button
+        android:id="@+id/cb_btn02"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="하나로 대신 주말 농장"
+        android:textSize="15dp"/>
+
+    <Button
+        android:id="@+id/cb_btn03"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="청주농협주말농장"
+        android:textSize="15dp"/>
+
+
+    <Button
+        android:id="@+id/cb_btn04"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="오창다래농장"
+        android:textSize="15dp"/>
+
+
+    <Button
+        android:id="@+id/cb_btn05"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="산성동텃밭"
+        android:textSize="15dp"/>
+
+    <Button
+        android:id="@+id/cb_btn06"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="백송블루베리"
+        android:textSize="15dp"/>
+
+    <Button
+        android:id="@+id/cb_btn07"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="이찌방 딸기 농장"
+        android:textSize="15dp"/>
+
+
+
+</LinearLayout>

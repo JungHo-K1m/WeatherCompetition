@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="대전광역시 농장"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/dj_btn01"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="노은주말농장"
+        android:textSize="15dp"/>
+
+    <Button
+        android:id="@+id/dj_btn02"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="가수원주말농장"
+        android:textSize="15dp"/>
+
+    <Button
+        android:id="@+id/dj_btn03"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="해피팜"
+        android:textSize="15dp"/>
+
+    <Button
+        android:id="@+id/dj_btn04"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="봉산주말농장"
+        android:textSize="15dp"/>
+
+    <Button
+        android:id="@+id/dj_btn05"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="적오산농장"
+        android:textSize="15dp"/>
+
+    <Button
+        android:id="@+id/dj_btn06"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="씨앗들 주말농장"
+        android:textSize="15dp"/>
+
+</LinearLayout>

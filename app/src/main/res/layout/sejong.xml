@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="세종특별자치시 농장"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/sj_btn01"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="웰촌남새밭"
+        android:textSize="15dp"/>
+
+    <Button
+        android:id="@+id/sj_btn02"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="와촌농장"
+        android:textSize="15dp"/>
+
+    <Button
+        android:id="@+id/sj_btn03"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="두레농업타운"
+        android:textSize="15dp"/>
+
+    <Button
+        android:id="@+id/sj_btn04"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="산우 주말농장"
+        android:textSize="15dp"/>
+
+    <Button
+        android:id="@+id/sj_btn05"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="무지개농장"
+        android:textSize="15dp"/>
+
+</LinearLayout>
